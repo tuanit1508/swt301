@@ -1,0 +1,15 @@
+
+P
+java:S1141,"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+e
+java:S2095"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(Ç–ô’ýÿÿÿÿ
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(áÉËœùÿÿÿÿ
+T
+java:S1659+">Declare "b" and all following declarations on a separate line.(¨—±…
+\
+java:S1075B"ARefactor your code to get this URI from a customizable parameter.(ºŽ÷Þÿÿÿÿÿ
+@	java:S106G"+Replace this use of System.out by a logger.(ª¡é³
+@	java:S106R"+Replace this use of System.out by a logger.(¨Ó±¬
+E
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
